@@ -1,7 +1,13 @@
 # Welcome to chat location 👋
-[![Version](https://img.shields.io/npm/v/chat location.svg)](https://www.npmjs.com/package/chat location)
-[![License: Apache license 2.0	](https://img.shields.io/badge/License-Apache license 2.0	-yellow.svg)](#)
 
+<p>
+  <a href="https://www.npmjs.com/package/api-rest" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/api-rest.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: Open Software License 3.0" src="https://img.shields.io/badge/License-Open Software License 3.0-yellow.svg" />
+  </a>
+</p>
 > chat with socket.io
 
 ### ✨ [Demo](https://fernando-cuestas-chat-location.herokuapp.com/)
@@ -27,3 +33,7 @@ npm run start
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
