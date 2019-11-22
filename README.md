@@ -1,4 +1,4 @@
-# Welcome to chat location 👋
+# Welcome to chatgeo 👋
 
 <p>
   <a href="https://www.npmjs.com/package/api-rest" target="_blank">
